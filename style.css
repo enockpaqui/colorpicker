@@ -1,0 +1,31 @@
+body{
+    font-family: 'Fira Code';
+}
+#section{
+    width: 50%;
+    border: 2px solid black;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: lightcyan;
+}
+h1{
+    text-align: center;
+    color:cornflowerblue;
+    text-transform: uppercase;
+}
+fieldset{
+    margin-bottom: 5px;
+}
+table{
+    border: 2px solid black;
+    width: 100%;
+    height: 100px;
+}
+#color{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
